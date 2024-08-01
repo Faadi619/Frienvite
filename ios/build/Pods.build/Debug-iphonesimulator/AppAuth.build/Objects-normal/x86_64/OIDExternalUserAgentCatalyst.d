@@ -1,0 +1,10 @@
+dependencies: \
+  /Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/AppAuth.build/module.modulemap \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuth/iOS/OIDExternalUserAgentCatalyst.m \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/Target\ Support\ Files/AppAuth/AppAuth-prefix.pch \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuth/iOS/OIDExternalUserAgentCatalyst.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDExternalUserAgent.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDErrorUtilities.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDError.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDExternalUserAgentSession.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDExternalUserAgentRequest.h

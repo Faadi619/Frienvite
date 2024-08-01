@@ -1,0 +1,85 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC25getFormattedExampleNumber4call6resultySo17FlutterMethodCallC_yypSgctF",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC13getRegionInfo4call6resultySo17FlutterMethodCallC_yypSgctF",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginCACycfC",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC14phoneNumberKit05PhonegH0AECvpMV",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginCN",
+            "_libphonenumber_pluginVersionString",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC15getAllCountries4call6resultySo17FlutterMethodCallC_yypSgctF",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC8register4withySo07FlutterE9Registrar_p_tFZ",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC15formatAsYouType4call6resultySo17FlutterMethodCallC_yypSgctF",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginCMa",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC18isValidPhoneNumber4call6resultySo17FlutterMethodCallC_yypSgctF",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC13getNumberType4call6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginCACycfc",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginCMn",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginCfD",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC25getFormattedExampleNumber4call6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC20normalizePhoneNumber4call6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC13getRegionInfo4call6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC14phoneNumberKit05PhonegH0AECvg",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC14phoneNumberKit05PhonegH0AECvpWvd",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC18isValidPhoneNumber4call6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC13getNumberType4call6resultySo17FlutterMethodCallC_yypSgctF",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC14phoneNumberKit05PhonegH0AECvpfi",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC15getAllCountries4call6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC20normalizePhoneNumber4call6resultySo17FlutterMethodCallC_yypSgctF",
+            "_libphonenumber_pluginVersionNumber",
+            "_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC15formatAsYouType4call6resultySo17FlutterMethodCallC_yypSgctFTq"
+          ],
+          "objc_class": [
+            "PodsDummy_libphonenumber_plugin",
+            "_TtC21libphonenumber_plugin25SwiftLibphonenumberPlugin",
+            "FLTLibphonenumberPlugin"
+          ]
+        }
+      },
+      {
+        "data": {
+          "global": [
+            "_Swift50Overrides",
+            "_Swift51Overrides"
+          ]
+        },
+        "targets": [
+          "x86_64-ios-simulator"
+        ]
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/libphonenumber_plugin.framework/libphonenumber_plugin"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

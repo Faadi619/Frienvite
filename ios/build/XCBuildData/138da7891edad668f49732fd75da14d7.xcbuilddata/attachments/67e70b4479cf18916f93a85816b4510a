@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Volumes/subhan/Professional/frienivite_app/build/ios/Debug-iphonesimulator/libphonenumber_plugin/libphonenumber_plugin.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Volumes/subhan/Professional/frienivite_app/build/ios/Debug-iphonesimulator/libphonenumber_plugin/libphonenumber_plugin.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "libphonenumber_plugin-Swift.h",
+      'external-contents': "/Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/unextended-interface-header.h",
+    }]
+    }]
+}

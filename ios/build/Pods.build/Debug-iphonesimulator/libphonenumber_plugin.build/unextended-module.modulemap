@@ -1,0 +1,10 @@
+framework module libphonenumber_plugin {
+  umbrella header "libphonenumber_plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module libphonenumber_plugin.__Swift {
+  exclude header "libphonenumber_plugin-Swift.h"
+}

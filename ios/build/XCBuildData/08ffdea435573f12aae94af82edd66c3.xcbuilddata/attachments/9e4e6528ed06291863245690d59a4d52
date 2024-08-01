@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/Objects-normal/arm64/libphonenumber_plugin-master.dia",
+    "emit-module-dependencies" : "/Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/Objects-normal/arm64/libphonenumber_plugin-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/Objects-normal/arm64/libphonenumber_plugin-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/Objects-normal/arm64/libphonenumber_plugin-master.swiftdeps"
+  },
+  "/Users/admin/.pub-cache/hosted/pub.dev/libphonenumber_plugin-0.3.3/ios/Classes/SwiftLibphonenumberPlugin.swift" : {
+    "const-values" : "/Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/Objects-normal/arm64/SwiftLibphonenumberPlugin.swiftconstvalues",
+    "dependencies" : "/Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/Objects-normal/arm64/SwiftLibphonenumberPlugin.d",
+    "diagnostics" : "/Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/Objects-normal/arm64/SwiftLibphonenumberPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/Objects-normal/arm64/SwiftLibphonenumberPlugin.o",
+    "llvm-bc" : "/Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/Objects-normal/arm64/SwiftLibphonenumberPlugin.bc",
+    "object" : "/Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/Objects-normal/arm64/SwiftLibphonenumberPlugin.o",
+    "swift-dependencies" : "/Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/Objects-normal/arm64/SwiftLibphonenumberPlugin.swiftdeps",
+    "swiftmodule" : "/Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/libphonenumber_plugin.build/Objects-normal/arm64/SwiftLibphonenumberPlugin~partial.swiftmodule"
+  }
+}

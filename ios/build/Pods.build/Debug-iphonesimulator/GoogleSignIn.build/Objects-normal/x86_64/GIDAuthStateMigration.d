@@ -1,0 +1,56 @@
+dependencies: \
+  /Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/GoogleSignIn.build/module.modulemap \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDAuthStateMigration.m \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDAuthStateMigration.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDSignInCallbackSchemes.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/GTMAppAuth.build/module.modulemap \
+  /Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/Target\ Support\ Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/GTMSessionFetcher/Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcher.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/GTMSessionFetcher/Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcherLogging.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/GTMSessionFetcher/Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcherService.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/GTMSessionFetcher/Sources/Core/Public/GTMSessionFetcher/GTMSessionUploadFetcher.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/GTMSessionFetcher/Sources/Full/Public/GTMSessionFetcher/GTMGatherInputStream.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/GTMSessionFetcher/Sources/Full/Public/GTMSessionFetcher/GTMMIMEDocument.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/GTMSessionFetcher/Sources/Full/Public/GTMSessionFetcher/GTMReadMonitorInputStream.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/Target\ Support\ Files/GTMAppAuth/GTMAppAuth-umbrella.h \
+  /Volumes/subhan/Professional/frienivite_app/build/ios/Debug-iphonesimulator/GTMAppAuth/GTMAppAuth.framework/Headers/GTMAppAuth-Swift.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/build/Pods.build/Debug-iphonesimulator/AppAuth.build/module.modulemap \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/Target\ Support\ Files/AppAuth/AppAuth-umbrella.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDAuthState.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDAuthStateChangeDelegate.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDAuthStateErrorDelegate.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDAuthorizationRequest.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDExternalUserAgentRequest.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDResponseTypes.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDScopes.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDAuthorizationResponse.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDAuthorizationService.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDError.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDErrorUtilities.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDExternalUserAgent.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDExternalUserAgentSession.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDGrantTypes.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDIDToken.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDRegistrationRequest.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDRegistrationResponse.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDScopeUtilities.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDServiceConfiguration.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDServiceDiscovery.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDTokenRequest.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDTokenResponse.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDTokenUtilities.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDURLSessionProvider.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDEndSessionRequest.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDEndSessionResponse.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDClientMetadataParameters.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDDefines.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDFieldMapping.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuthCore/OIDURLQueryComponent.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuth.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuth/iOS/OIDAuthState+IOS.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuth/iOS/OIDAuthorizationService+IOS.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuth/iOS/OIDExternalUserAgentIOS.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuth/iOS/OIDExternalUserAgentIOSCustomBrowser.h \
+  /Volumes/subhan/Professional/frienivite_app/ios/Pods/AppAuth/Sources/AppAuth/iOS/OIDExternalUserAgentCatalyst.h
