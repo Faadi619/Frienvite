@@ -1,6 +1,5 @@
-# frienivite_app
-
 # Frienvite – Event Discovery & Social Networking App
+
 # Description
 Frienvite is a platform that enables users to discover, join, and host events. Events can be either public or private, offering users flexibility and privacy. Private events are accessible only through invites, while public events are open to everyone. The app includes a calendar for managing event schedules and an in-group chat feature for seamless communication.
 
